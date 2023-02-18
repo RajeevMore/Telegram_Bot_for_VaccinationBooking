@@ -1,3 +1,7 @@
 telebot
 pyTelegramBotAPI
 mysql.connector
+
+# softwares used 
+# 1. VS code editor
+# 2. MySql with Workbench
